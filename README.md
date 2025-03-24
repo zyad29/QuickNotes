@@ -117,7 +117,7 @@ Ajoutez de nouveaux appels API selon les besoins
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre des pull requests ou à ouvrir des issues pour proposer des améliorations ou signaler des bugs.
 
 
-                                --------------------------------------------------------------------
+                             --------------------------------------------------------------------
 
 
 # React + Vite
